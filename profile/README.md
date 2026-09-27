@@ -38,4 +38,4 @@ Because it's Apple's own control, dragging it sets the OS output volume and the
 
 ---
 
-<sub>Katama Engineering LLC · South Carolina, USA</sub>
+<sub>Katama Labs LLC · South Carolina, USA</sub>
