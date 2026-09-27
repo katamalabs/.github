@@ -1,9 +1,9 @@
-# Katama Engineering
+# Katama Labs
 
 Software engineering studio building native mobile tooling and open-source
 libraries. We ship small, well-documented packages that do one thing well.
 
-🌐 [katamaengineering.com](https://katamaengineering.com) · ✉️ [info@katamaengineering.com](mailto:info@katamaengineering.com)
+🌐 [katamalabs.com](https://katamalabs.com) · ✉️ [info@katamalabs.com](mailto:info@katamalabs.com)
 
 ---
 
@@ -13,7 +13,7 @@ Native **Capacitor** plugins for iOS: the pieces WKWebView can't do on its own,
 built to mirror the conventions of the official Capacitor plugins so they drop
 straight into an existing app.
 
-### 📍 [capacitor-plugin-apple-maps](https://github.com/katamaengineering/capacitor-plugin-apple-maps)
+### 📍 [capacitor-plugin-apple-maps](https://github.com/katamalabs/capacitor-plugin-apple-maps)
 
 Renders a native **Apple Maps (MapKit)** view on iOS, with an `AppleMap` API
 deliberately mirroring [`@capacitor/google-maps`](https://github.com/ionic-team/capacitor-plugins/tree/main/google-maps) (camera, markers,
@@ -25,7 +25,7 @@ no external dependencies.
 ![Swift](https://img.shields.io/badge/Swift-iOS%2015%2B-orange.svg)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-### 🔊 [capacitor-plugin-system-volume](https://github.com/katamaengineering/capacitor-plugin-system-volume)
+### 🔊 [capacitor-plugin-system-volume](https://github.com/katamalabs/capacitor-plugin-system-volume)
 
 Overlays a native, stylable **system-volume slider** (`MPVolumeView`) on iOS.
 Because it's Apple's own control, dragging it sets the OS output volume and the
